@@ -1,0 +1,18 @@
+.menu__header img {
+    height: 3rem;
+    font-weight: bold
+}
+
+.menu__header{
+    color: #ffffff;
+    font-weight: bold
+}
+
+@media (max-width: 425px) {
+    .menu__header img {
+        height: 1.2rem;
+        
+    }
+}
+
+

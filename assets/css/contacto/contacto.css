@@ -1,0 +1,23 @@
+.formcontacto {
+    background: rgb(57,82,180);
+background: linear-gradient(90deg, rgba(57,82,180,1) 0%, rgba(149,67,171,1) 100%);
+    padding: 4rem 2rem;
+}
+
+.formcontacto__contacto {
+    display: flex;
+    gap: 1rem;
+    padding-top: 2rem;
+    justify-content: space-between;
+    position: relative;
+}
+
+@media (max-width:768px) {
+    .formcontacto {
+        padding: 2rem;
+    }
+
+    .formcontacto__contacto {
+        padding-top: 0;
+    }
+}

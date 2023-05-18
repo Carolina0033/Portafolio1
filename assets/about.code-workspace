@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "css/about"
+		},
+		{
+			"path": "css/academic"
+		},
+		{
+			"path": "css/contacto"
+		},
+		{
+			"path": "css/exp"
+		},
+		{
+			"path": "css/footer"
+		},
+		{
+			"path": "css/hobbies"
+		},
+		{
+			"path": "css/menu"
+		},
+		{
+			"path": "css/skills"
+		},
+		{
+			"path": "css/title"
+		}
+	]
+}

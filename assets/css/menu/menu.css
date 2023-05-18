@@ -1,0 +1,20 @@
+.menu{
+    display: flex;
+    background: rgb(57,82,180);
+background: linear-gradient(90deg, rgba(57,82,180,1) 0%, rgba(149,67,171,1) 100%);
+    justify-content: space-between;
+    padding: 1rem 2rem;   
+}
+
+
+
+
+@media (max-width:425px) {
+    .menu{
+        padding: 0.5rem 1rem;
+    }
+    
+}
+  
+
+
